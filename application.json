@@ -25,6 +25,19 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "clonedFromApplicationId": "6098bdc65864501cc39c3d2f",
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "65cb12036f7db15c18052f25",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
+  },
   "color": "#C7F3E3",
   "icon": "medical",
   "unpublishedAppLayout": {
