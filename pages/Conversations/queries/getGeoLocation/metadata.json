@@ -8,6 +8,7 @@
       "pluginId": "restapi-plugin",
       "organizationId": "61b6d49e33c6ae6163af2716",
       "datasourceConfiguration": {
+        "sshProxyEnabled": false,
         "url": "http://api.openweathermap.org"
       },
       "invalids": [],
